@@ -15,16 +15,16 @@
         </div>
         <div class="bottom-border"></div>
         <div class="menu">
-            <button type="button">Todos</button>
-            <button type="button">Café.Manhã</button>
-            <button type="button">Almoço</button>
-            <button type="button">Shakes</button>
-            <button type="button">Jantar</button>
+            <button class="todos-btn" onclick="todosBottom()" type="button">Todos</button>
+            <button class="cafe-btn" onclick="cafeBottom()" type="button">Café.Manhã</button>
+            <button class="dinner-btn" onclick="dinnerBottom()" type="button">Almoço</button>
+            <button class="shake-btn" onclick="shakesBottom()" type="button">Shakes</button>
+            <button class="jantar-btn" onclick="jantarBottom()" type="button">Jantar</button>
         </div>
     </header>
     <main>
-        <section>
-            <div class="pratos-1">
+        <section id="food-item">
+            <div id="pratos-1">
                 <div class="post-area">
                     <div>
                         <img src="https://vanilla-js-basic-project-8-menu.netlify.app/images/item-1.jpeg" alt="café da manhã" srcset="">
@@ -71,7 +71,7 @@
                     </div>
                 </div>
             </div>
-            <div class="pratos-2">
+            <div id="pratos-2">
                 <div class="post-area">
                     <div>
                         <img src="https://vanilla-js-basic-project-8-menu.netlify.app/images/item-2.jpeg" alt="café da manhã" srcset="">

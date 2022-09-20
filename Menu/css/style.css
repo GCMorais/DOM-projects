@@ -39,7 +39,7 @@ button:hover{
 }
 section{
     display: flex;
-    width: 63%;
+    width: 90%;
     margin: 0 auto;
 }
 .post-area{
@@ -76,8 +76,8 @@ section{
     font-size: 1.1rem;
     color: #67a5d7;
 }
-.pratos-1{
-    margin-right: 2rem;
+#pratos-1{
+    margin-left: 10%;
 }
 @media (max-width:1030px){
     section{
