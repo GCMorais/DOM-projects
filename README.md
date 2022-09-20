@@ -14,6 +14,7 @@ Estou estudando pelas seguintes plataformas:
 - [FreeCodeCamp;](https://www.freecodecamp.org/portuguese/learn)
 - [Escola Britânica das Artes Criativas;](https://ebaconline.com.br/)
 - [Canal Programação Web;](https://www.youtube.com/watch?v=McKNP3g6VBA)
+- [RocketSeat;](https://www.rocketseat.com.br/)
 
 
 
