@@ -5,7 +5,7 @@ Este repositório é compartilhado para arquivar meu passo-a-passo na linguagem 
 
 
 
-## Data de início
+## Sobre o projeto
 
 Iniciei os estudo em JavaScript em 06/09/2022.
 O JavaScript vai me permitir infinitas possibilidades para evoluir meus projetos.
