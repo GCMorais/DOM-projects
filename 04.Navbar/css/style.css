@@ -59,6 +59,12 @@ header{
 }
 
 @media (max-width: 810px){
+    .conteudo{
+        width: 80%;
+    }
+    .menu{
+        display: contents;
+    }
     .menuMenu ul{
         visibility: hidden;
     }
