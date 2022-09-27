@@ -15,7 +15,7 @@ Estou estudando pelas seguintes plataformas:
 - [Escola Britânica das Artes Criativas;](https://ebaconline.com.br/)
 - [Canal Programação Web;](https://www.youtube.com/watch?v=McKNP3g6VBA)
 - [RocketSeat;](https://www.rocketseat.com.br/)
-
+- [John Smilga;](https://www.vanillajavascriptprojects.com/)
 
 
 ## Feedback
