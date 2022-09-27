@@ -45,7 +45,9 @@ body{
     border-radius: 10px;
     margin-bottom: 2rem;
     align-items: center;
+    min-width: 25rem;
 }
+
 .box-content button{
     width: 2rem;
     height: 2rem;
@@ -56,6 +58,11 @@ body{
     color: #c59d6e;
     background-color: white;
     cursor: pointer;
+}
+.box-content button:hover{
+    background-color: #c59d6e;
+    color: white;
+    transition: all 0.7s ease-in-out;
 }
 .box-content p{
     letter-spacing: 3px;
