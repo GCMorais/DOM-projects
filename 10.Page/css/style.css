@@ -30,7 +30,10 @@ ul li{
     font-size: 20px;
     font-family: sans-serif;
 }
-
+li a {
+    text-decoration: none;
+    color: white;
+}
 section img{
     object-fit: cover;
     width: 100%;
