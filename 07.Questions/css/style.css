@@ -33,10 +33,20 @@ body{
     margin-bottom: 4rem;
 }
 
+.box1{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    gap: 4rem;
+    padding: 0rem 0 0.5rem 0;
+   /* margin-bottom: 1rem; ADICIONAR DEPOIS */
+}
 .box-content{
     background-color: #fff;
     width: 35%;
     display: flex;
+    flex-flow: column;
     justify-content: space-between;
     padding: 1rem;
     border-radius: 20px;
@@ -63,9 +73,29 @@ body{
     background-color: #c59d6e;
     color: white;
     transition: all 0.7s ease-in-out;
+    transform: rotate(90deg);
 }
 .box-content p{
     letter-spacing: 3px;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-weight: 600;
 }
+.botton-line{
+    width: 70%;
+    background-color: #c9c9c9;
+    height: 1px;
+    margin-bottom: 1rem;
+}
+
+/* Texto Escondido */
+
+.question-text{
+    padding: 1rem 0 1.5rem 0;
+    border-top: 1px solid rgba(0, 0, 0, 0.2);
+    display: none;
+}
+.show-text .question-text {
+    display: block;
+}
+
+
