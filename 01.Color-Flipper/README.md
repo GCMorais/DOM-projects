@@ -1,5 +1,5 @@
 
-# Video
+# Color Flipper
 
 Projeto criado para fins de estudo.
 
