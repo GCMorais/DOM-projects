@@ -1,5 +1,5 @@
 
-# Projetos JavaScript =D
+# Projetos DOM 
 
 Este repositório é compartilhado para arquivar meu passo-a-passo na linguagem de desenvolvimento JavaScript.
 
