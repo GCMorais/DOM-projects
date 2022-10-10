@@ -16,7 +16,7 @@ body{
     padding-top: 5%;
 }
 .container h1{
-    font-size: 1.8rem;
+    font-size: 1.5rem;
     letter-spacing: 4px;
     color: #063251;
     font-family: sans-serif;
@@ -55,4 +55,10 @@ button:hover{
     transition: all .4s ease-in-out;
     border: 1px solid #49a6e9;
     color: #49a6e9;
+}
+
+.text{
+    margin-top: 2rem;
+    text-align: center;
+    width: 50%;
 }
